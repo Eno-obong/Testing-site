@@ -1,0 +1,54 @@
+/* styling for our nav */
+.navbar {
+    background-color: gray !important;
+}
+.nav-link {
+    color:white !important;
+}
+.home {
+    margin:0px 4px !important;
+    background-color: white;
+    color:gray !important;
+    border-radius: 7px;
+}
+
+/* styling for header section */
+
+#header {
+    background-image:url('images/header.png');
+    height:600px;
+    background-size:cover;
+    background-position: center center;
+}
+.header {
+    color:white;
+    font-size: 50px;
+    padding-top:170px;
+    padding-left: 150px;
+}
+
+/* styling for second section */
+.icon{
+    font-size:30px;
+    margin:7px 0px;
+    color:rgb(173, 173, 6);
+}
+.boy {
+    font-size:30px;
+    font-family:monospace
+}
+
+/* styling for third section */
+
+#third_section {
+    background-color: rgb(175, 175, 7);
+}
+.btn {
+    border-radius: 25px !important;
+}
+
+/* styling for forth section */
+#forth_section {
+    background-color: black;
+    color:white;
+}
